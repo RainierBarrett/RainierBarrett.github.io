@@ -1,21 +1,20 @@
 # Site wide configuration
 
-title: Site Title
+title: Rainier Barrett
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
+  name: Rainier Barrett
+  avatar: me.jpg
   bio: "A brief description of yourself."
-  email: #emailaddress
+  email: rainier.barrett@gmail.com
   # Do not include the @ symbol in your Twitter username
-  twitter: #username
-  linkedin: #username
-  github: #username
-  orcid: # ID Number (ex. 0000-0000-0000-0000)
-  researchgate: #username
+  linkedin: https://www.linkedin.com/in/rainier-barrett
+  github: https://github.com/RainierBarrett
+  orcid: 0000-0002-5728-9074
+  researchgate: https://www.researchgate.net/profile/Rainier_Barrett
   mendeley: #username
   google:
     plus: #username
